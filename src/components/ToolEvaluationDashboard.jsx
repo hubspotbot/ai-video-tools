@@ -119,20 +119,20 @@ const ChatInterface = React.memo(({
 
     try {
       // Create context about the tool evaluations
-      const evaluationContext = evaluations.map(eval => ({
-        toolName: eval.toolName,
-        category: eval.category,
-        status: eval.status,
-        evaluator: eval.evaluator,
-        overallScore: eval.overallScore,
-        cost: eval.cost,
-        keyFindings: eval.keyFindings,
-        recommendation: eval.recommendation,
-        pros: eval.pros,
-        cons: eval.cons,
-        useCases: eval.useCases,
-        businessImpact: eval.businessImpact,
-        exampleOutput: eval.exampleOutput
+      const evaluationContext = evaluations.map(evaluation => ({
+        toolName: evaluation.toolName,
+        category: evaluation.category,
+        status: evaluation.status,
+        evaluator: evaluation.evaluator,
+        overallScore: evaluation.overallScore,
+        cost: evaluation.cost,
+        keyFindings: evaluation.keyFindings,
+        recommendation: evaluation.recommendation,
+        pros: evaluation.pros,
+        cons: evaluation.cons,
+        useCases: evaluation.useCases,
+        businessImpact: evaluation.businessImpact,
+        exampleOutput: evaluation.exampleOutput
       }));
 
       const systemPrompt = `You are an AI assistant helping users understand software tool evaluations. 
