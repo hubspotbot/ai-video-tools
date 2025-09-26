@@ -1,0 +1,219 @@
+{
+  "evaluations": [
+    {
+      "id": 1,
+      "toolName": "Clueso",
+      "category": ["AI Video Editing"],
+      "status": "In Progress",
+      "evaluator": "Oscar Estrada",
+      "evaluationDate": "2025-08-15",
+      "overallScore": 3.2,
+      "cost": "$150/month (30 min video limit)",
+      "keyFindings": "AI platform transforms screen recordings into tutorials and written guides. Efficient but AI voiceovers lack engagement.",
+      "nextReviewDate": "2025-09-15",
+      "pros": [
+        "Significantly reduces content creation time",
+        "Automatic generation of written guides alongside videos",
+        "Beginner-friendly interface",
+        "High content consistency and standardization",
+        "Effective for multilingual content distribution",
+        "Good video quality and professional appearance"
+      ],
+      "cons": [
+        "AI voiceovers lack engagement of human presenters",
+        "Cannot preview script/timing changes until regenerating voiceover",
+        "Poor mobile optimization and aspect ratio support",
+        "Average platform responsiveness with slow loading",
+        "Limited video output on basic plan (30 minutes)",
+        "Timeline editing makes precise cuts challenging"
+      ],
+      "recommendation": "Recommend for rapid information distribution where speed is prioritized over presenter authenticity",
+      "useCases": [
+        "Customer Support: Consistent how-to guides for self-service",
+        "Internal Training: Standardized onboarding materials",
+        "Multilingual Content: Efficient tutorial translation"
+      ],
+      "businessImpact": "Significant time reduction in tutorial creation, enables non-technical staff to create professional content",
+      "exampleOutput": "https://enthusiastic-seriema.clueso.site/share/058200c2-69e0-43fd-9a2e-f39e851b2d44",
+      "detailedScores": {
+        "Video Quality": 4,
+        "Written Guide Generation": 4,
+        "PPT Integration": 3,
+        "Template Generation": 3,
+        "Video Synchronization": 4,
+        "Automatic Enhancements": 4,
+        "Translation Quality": 4,
+        "Aspect Ratio Formatting": 1,
+        "Video to Article Conversion": 4,
+        "Platform Speed": 3,
+        "User Experience": 2,
+        "Upload Process": 4,
+        "Audio Quality": 3,
+        "Written Content Quality": 4
+      }
+    },
+    {
+      "id": 23,
+      "toolName": "Capsule AI Productions",
+      "category": ["AI Avatars", "AI Video Editing"],
+      "status": "Rejected",
+      "evaluator": "Oscar Estrada",
+      "evaluationDate": "2025-08-30",
+      "overallScore": 2.4,
+      "cost": "Beta pricing not disclosed",
+      "keyFindings": "While the platform offers an easy-to-use workflow for video creation, significant quality issues and obvious artificial appearance create unacceptable risks for professional communications.",
+      "pros": [
+        "All video creation tools integrated in one platform, reducing app switching",
+        "Easy for existing users to learn quickly",
+        "High-quality motion graphics that work well across different video sizes",
+        "Can create custom avatars and backgrounds through text descriptions",
+        "Good error recovery with version history as backup"
+      ],
+      "cons": [
+        "Avatars look obviously artificial with poor lip-sync and inconsistent appearance",
+        "Limited to 250 words per video segment, requiring longer content to be split up",
+        "Cannot preview changes without fully regenerating the video, slowing down editing",
+        "No way to customize how individual lines are delivered or emphasized",
+        "Significant loading times and technical issues offset speed benefits",
+        "Not suitable for customer-facing or professional content due to quality issues"
+      ],
+      "recommendation": "Rejected for professional use due to significant quality limitations that create credibility risks. While the platform shows promise for rapid video prototyping, obvious AI artifacts and inconsistent output quality make it unsuitable for business communications. Re-evaluate when platform exits Beta and addresses quality concerns.",
+      "useCases": [
+        "Low-stakes internal training: Where speed matters more than presenter quality",
+        "Quick concept testing: Rapid prototyping before investing in professional video production"
+      ],
+      "businessImpact": "High risk for external use due to obvious artificial appearance and quality inconsistencies. Potential time savings offset by multiple retakes needed and reputational risks from using obviously artificial presenters in professional contexts.",
+      "exampleOutput": "https://drive.google.com/file/d/1mQK3Mul1ns9hq8_y0wNf7FxqqkQbbilV/view?usp=sharing; https://drive.google.com/file/d/1AYli2quVusMKFEv5hFVVnxW04OALrb6U/view?usp=drive_link",
+      "detailedScores": {
+        "Actor Customization Depth": 3,
+        "Personality & Tone Control": 2,
+        "Actor Library Management": 3,
+        "Visual Consistency": 2,
+        "Location Customization": 2,
+        "Scene Library Management": 3,
+        "Environmental Realism": 2,
+        "Script Processing": 3,
+        "Delivery Control": 1,
+        "Multiple Takes Generation": 3,
+        "Script Length Handling": 3,
+        "Voiceover Generation Quality": 2,
+        "Voice Consistency": 2,
+        "Audio Cleanup": 4,
+        "Music Integration": 2,
+        "Motion Graphics Integration": 4,
+        "Multi-cam Intelligence": 2,
+        "Autoframe Functionality": 3,
+        "Overall Platform Usability": 4,
+        "Learning Curve": 4,
+        "Workflow Efficiency": 2,
+        "Error Handling": 4,
+        "Training & Onboarding Content": 2,
+        "Sales Enablement": 2,
+        "Internal Communications": 2,
+        "Customer Education": 1,
+        "Generation Speed": 3,
+        "Platform Stability": 2
+      }
+    },
+    {
+      "id": 9,
+      "toolName": "FLORA",
+      "category": ["AI Image Generation", "AI Video Generation"],
+      "status": "Approved",
+      "evaluator": "Oscar Estrada",
+      "evaluationDate": "2025-08-29",
+      "overallScore": 3.6,
+      "cost": "$60/month for 80,000 credits (~25 videos with expensive models)",
+      "keyFindings": "Visual workflow platform that combines multiple AI tools in one interface. Instead of using individual AI tools separately, users can connect different AI models together on a canvas to create custom workflows for generating images, videos, and other content.",
+      "pros": [
+        "Access multiple AI tools through one subscription instead of paying for each separately",
+        "Visual workflow builder makes complex AI processes easier to understand and use",
+        "Quick experimentation with different AI models without switching between platforms",
+        "Easy to update workflows when new AI models are released",
+        "Maintains creative momentum by keeping everything in one workspace",
+        "Suitable for users with varying technical skill levels"
+      ],
+      "cons": [
+        "Choosing the right AI models requires some expertise and experimentation",
+        "Limited ability to maintain context across different parts of complex workflows",
+        "Project organization can become difficult with large volumes of generated content",
+        "May be more expensive than individual subscriptions for light usage",
+        "Initial learning curve for users unfamiliar with workflow-based interfaces"
+      ],
+      "recommendation": "Best for creative teams working on projects that require multiple types of AI-generated content. Most valuable when you need to combine different AI capabilities regularly rather than using just one tool occasionally.",
+      "useCases": [
+        "Concept Development & Ideation: Quickly explore various visual concepts in different styles and formats",
+        "Complex Image and Video Workflows: Integrate leading image generation, editing, and video models for optimal results",
+        "Consistent Content Creation: Develop custom styles to maintain uniformity across numerous generations"
+      ],
+      "businessImpact": "Reduces software costs by consolidating multiple AI subscriptions. Increases team productivity by eliminating time spent switching between different tools. Enables faster project completion through streamlined creative workflows.",
+      "exampleOutput": "Character portrait experimentation: https://drive.google.com/file/d/1RYGhBu261hK_XcTse-bG5EPHiaSWnEl_/view?usp=drive_link; Image to Video workflow: https://drive.google.com/file/d/1jIveqG7vy7SzSg8ZQD8a-3C-GxGxhxmi/view?usp=drive_link; Character Replacement workflows: https://drive.google.com/file/d/1BP72mDBlPSr7DaXiSCUtZe2TAbx8_GUl/view?usp=drive_link, https://drive.google.com/file/d/1rrKeZb1Bo43ygt1vmrI5Oy8VCMPrjXzu/view?usp=drive_link",
+      "detailedScores": {
+        "Node-Based Interface": 3,
+        "Multi-Modal Integration": 4,
+        "Workflow Creation": 4,
+        "Image & Video Generation Quality": 4,
+        "Text-to-Visual Conversion": 3,
+        "Image Variation Creation": 4,
+        "Rapid Iteration Speed": 4,
+        "Image-to-Prompt Conversion": 3,
+        "Image-to-Video": 4,
+        "Style Management": 4,
+        "AI Model Variety": 4,
+        "Model Switching": 3,
+        "Parameter Control": 4,
+        "Platform Responsiveness": 4,
+        "Learning Curve": 3,
+        "Canvas Navigation": 4,
+        "Asset Organization": 3,
+        "Visual Output Quality": 4,
+        "Generation Speed": 4,
+        "Batch Processing": 4
+      }
+    },
+    {
+      "id": 24,
+      "toolName": "Icon.me",
+      "category": ["AI Video Generation", "AI Avatars", "AI Video Editing"],
+      "status": "Rejected",
+      "evaluator": "Stephen Fiske",
+      "evaluationDate": "2025-04-11",
+      "overallScore": 2.3,
+      "cost": "$39+/month (Basic) or $399/month (Advanced)",
+      "keyFindings": "While Icon offers promising features like script generation and centralized asset management, technical limitations and reliability issues prevent it from serving as a complete solution for video production needs.",
+      "pros": [
+        "Effective at generating audience-tailored ad scripts when provided sufficient product and persona information",
+        "Uses HeyGen for avatar generation, providing comparable quality to native HeyGen",
+        "AI-generated videos provide results comparable to Sora",
+        "Engaging captions creation directly in the editor",
+        "Streamlines creative process with centralized asset management",
+        "Easy voice-over regeneration for quick content iteration",
+        "Multi-layer track editor simplifies video editing process",
+        "Social posting overlay features streamline content sharing"
+      ],
+      "cons": [
+        "Limited control over AI video style customization, hindering brand aesthetic matching",
+        "Much smaller avatar library compared to HeyGen, limiting variety and choices",
+        "Voice-over-driven editor limits creative flexibility for non-voice content",
+        "Only supports 9:16 aspect ratio, doesn't support other required ratios for DR ads",
+        "AI video generator lacks customization, requiring more tries for consistent results",
+        "Slow loading times in image library disrupt creative workflow",
+        "Overall poor interface performance with crashes and responsiveness issues",
+        "No built-in approval and revision workflow for collaboration"
+      ],
+      "recommendation": "Rejected - tool not suitable for replacing existing workflow. While showing promise in script generation and asset management, technical limitations and reliability issues prevent it from serving as a complete solution. Most valuable as a complementary tool for script generation and initial concept development only.",
+      "useCases": [
+        "Script Generation: Initial ad script creation and concept development",
+        "Asset Management: Centralized creative asset organization",
+        "Competitor Research: Ad monitoring and competitive analysis"
+      ],
+      "businessImpact": "Cannot fully replace existing workflow due to technical limitations. Would require maintaining current tech stack alongside Icon, reducing potential efficiency gains. Interface reliability issues could negatively impact team productivity.",
+      "exampleOutput": "Icon AI Generated Video: https://drive.google.com/file/d/1KWyoBsh1XtCDui9PdX3NZ0id5_AHSsSK/view?usp=sharing; Icon Final Video with Avatars: https://drive.google.com/file/d/13YWEONAWPNorQR2DvW6OBulYzCJD5hvN/view?usp=sharing; Current toolset comparison: https://drive.google.com/file/d/1TghIdcXYMwloEYTpnvWP7jAbiz3qQbMi/view?usp=drive_link; https://drive.google.com/file/d/13EV11Hu2gDN4i1BLQyZ9Rw-LZ2RRqtIF/view?usp=drive_link"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-09-25T12:00:00Z",
+    "version": "1.0.0",
+    "totalEvaluations": 4
+  }
+}
